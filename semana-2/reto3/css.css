@@ -1,0 +1,35 @@
+form{
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+fieldset{
+    padding: 10px 40px 10px 40px;
+    background-color: #D3EFFC ;
+    border: none;
+}
+[type="text"]{
+    width: 410px;
+    height: 30px;
+    margin: 5px 0 15px 0;
+}
+[type="email"]{
+    width: 410px;
+    height: 30px;
+    margin: 5px 0 15px 0; 
+}
+textarea{
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+[type="submit"]{
+    background-color:#70CDF8;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px 15px 25px;
+    color: white;
+    font-size: 16px;
+    align-items: inherit;
+    margin-left: 35%;
+}
