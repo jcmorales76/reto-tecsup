@@ -49,7 +49,8 @@ body{
     color: aquamarine;
     border: 1px solid black;
     padding: 1px solid;
-    border-color: rgb(55,19,60);
+    /* border-color: rgb(55,19,60); */
+    border-image: linear-gradient(to right, rgb(55,19,60), rgb(126,48,105));
     
 }
 
