@@ -44,7 +44,8 @@ switch(tipo_pago){
         Total a pagar = ${total*1.05}`);
         break;
     default:
-        console.log("Seleccione una opcion correcta")
+        alert("Seleccione una opcion correcta")
+        tipo_pago();
         break;
 }
 
