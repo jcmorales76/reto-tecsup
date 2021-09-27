@@ -19,6 +19,6 @@ if (numeroCita <= 3) {
   total = (numeroCita - 8) * 50 + 1200;
 }
 
-console.log(`Su numero de cita es: ${numeroCita}
+alert(`Su numero de cita es: ${numeroCita}
 Costo de la Cita es ${costoCita}, 
 Costo total de tratamiento de ${total}`);
